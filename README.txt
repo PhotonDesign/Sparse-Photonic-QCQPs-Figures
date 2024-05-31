@@ -1,6 +1,6 @@
 README
 
-Run FEM_BOUND.mat reproduce the LC-FEM bound in the paper "Many Photonic Design Problems are Sparse QCQPs". 
+Run FEM_BOUND.m to reproduce the LC-FEM bound in the paper "Many Photonic Design Problems are Sparse QCQPs". 
 
 Pre-requisite softwares: 
 * Mosek: https://docs.mosek.com/latest/toolbox/index.html
