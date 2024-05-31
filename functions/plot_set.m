@@ -1,0 +1,3 @@
+function[] = plot_set(gcf,fontSize,lnWdth)
+set(findobj(gcf,'type','axes'),'FontName','Calibri',...
+    'FontSize',fontSize,'LineWidth',lnWdth,'BoxStyle','full','Box','on');
